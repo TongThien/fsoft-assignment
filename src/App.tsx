@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useWeatherFacade } from "./hooks/WeatherFacade";
+import { useWeatherFacade } from "./hooks/useWeatherFacade";
 import "./App.css";
 import { getConditionalClass } from "./utils/getConditionalClass";
 
